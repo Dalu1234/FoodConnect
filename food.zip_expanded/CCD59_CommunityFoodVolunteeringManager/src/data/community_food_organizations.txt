@@ -1,0 +1,8 @@
+Food Bank;1;East End Cooperative Ministry;40.419390;-79.928460;828 Hazelwood Ave;Pittsburgh;PA;15217;yes;1000;Monday@12:30@17:00;Thursday@11:00@14:45
+Food Bank;3;Greater Pittsburgh Food Bank;40.415729;-79.909445;1 N Linden St;Duquesne;PA;15110;yes;5000;Wednesday@09:00@16:00;Friday@10:00@18:00
+Food Bank;4;Second Harvest Food Bank;39.952583;-75.165222;123 Market St;Philadelphia;PA;19106;no;3000;Tuesday@10:00@15:00;Thursday@11:30@17:00
+Food Bank;5;Central PA Food Bank;40.263680;-76.890210;3908 Corey Rd;Harrisburg;PA;17109;yes;7000;Monday@08:00@16:00;Wednesday@08:30@17:00
+Food Pantry;2;Squirrel Hill Food Pantry;40.41939;-79.92846;828 Hazelwood Ave;Pittsburgh;PA;15217;yes;Monday@12:00@17:00@6;Tuesday@12:00@17:00@5;Wednesday@12:00@17:00@4;Thursday@12:00@17:00@5
+Food Pantry;6;Northside Community Pantry;40.455545;-80.015647;123 North Ave;Pittsburgh;PA;15212;no;Monday@09:00@12:00@4;Wednesday@10:00@13:00@5;Friday@14:00@18:00@6
+Food Pantry;7;South Hills Food Pantry;40.334521;-80.033807;500 Hill Rd;Bethel Park;PA;15102;yes;Tuesday@10:00@16:00@3;Thursday@11:00@15:00@4;Saturday@09:00@12:00@5
+Food Pantry;8;West End Food Pantry;40.441178;-79.990430;202 West End Ln;Pittsburgh;PA;15220;no;Monday@08:00@12:00@2;Friday@11:00@16:00@3;Saturday@10:00@14:00@4
