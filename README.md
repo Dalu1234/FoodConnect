@@ -51,4 +51,4 @@ FoodConnect is a volunteer management system designed for community food organiz
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Author
-[Your Name] - Passionate about software development and creating meaningful solutions for community-driven challenges.
+Chukwudalu Dumebi-Kachikwu - Passionate about software development and creating meaningful solutions for community-driven challenges.
